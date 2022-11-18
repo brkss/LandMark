@@ -18,6 +18,7 @@
 		9FA996032927E14800FAC34B /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA996022927E14800FAC34B /* MapView.swift */; };
 		9FA996052927F10200FAC34B /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9FA996042927F10200FAC34B /* landmarkData.json */; };
 		9FA996072927F13300FAC34B /* LandMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA996062927F13300FAC34B /* LandMark.swift */; };
+		9FA996092927F48F00FAC34B /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA996082927F48F00FAC34B /* ModelData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		9FA996022927E14800FAC34B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		9FA996042927F10200FAC34B /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		9FA996062927F13300FAC34B /* LandMark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMark.swift; sourceTree = "<group>"; };
+		9FA996082927F48F00FAC34B /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			children = (
 				9FA995D62927D9F800FAC34B /* LandmarksApp.swift */,
 				9FA996062927F13300FAC34B /* LandMark.swift */,
+				9FA996082927F48F00FAC34B /* ModelData.swift */,
 				9FA995D82927D9F800FAC34B /* ContentView.swift */,
 				9FA996002927E0A400FAC34B /* CircleImage.swift */,
 				9FA996022927E14800FAC34B /* MapView.swift */,
@@ -275,6 +278,7 @@
 				9FA996032927E14800FAC34B /* MapView.swift in Sources */,
 				9FA995D72927D9F800FAC34B /* LandmarksApp.swift in Sources */,
 				9FA996012927E0A400FAC34B /* CircleImage.swift in Sources */,
+				9FA996092927F48F00FAC34B /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
