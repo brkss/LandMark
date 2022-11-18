@@ -2,7 +2,7 @@
 //  LandmarksApp.swift
 //  Landmarks
 //
-//  Created by brkss on 15/11/2022.
+//  Created by brkss on 18/11/2022.
 //
 
 import SwiftUI
